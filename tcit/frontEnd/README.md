@@ -1,7 +1,8 @@
-FrontEnd  react redux
-BackEnd nodeJs
+FrontEnd:3000  react redux
+BackEnd:8000 nodeJs
 DataBase posgress
 VSC
+http://localhost:3000/
 
 Intrucciones :
 1 clonar repostorio
